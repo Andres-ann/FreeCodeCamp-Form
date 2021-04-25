@@ -1,0 +1,15 @@
+body {
+    color: #fff;
+    font-size: 1rem;
+    background: rgb(131,58,180);
+    background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+}
+
+.form {
+    background-color: rgb(255, 255, 255, 0.25);
+    padding: 2rem;
+    border-radius: 10px;
+    margin-bottom: 4rem;
+    backdrop-filter: blur(10px);
+    box-shadow: 0px 0px 5px 0px #f0f0f0;
+}
